@@ -20,7 +20,7 @@ summary(storms) # Changed storm to storms
 
 Look at the variable names: 
 ```{r}
-Names(storms)
+names(storms) # changed function to names
 ```
 
 ## Step 2: Exploratory visualization
